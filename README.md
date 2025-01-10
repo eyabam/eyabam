@@ -8,7 +8,7 @@ I'm currently exploring various technologies and honing my skills in software de
 
 ## Skills & Technologies
 
-docker,html,css,react,nodejs,express,mongodb,graphql,git,aws,linux,java,gitlab,vue,postgres
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## GitHub Stats
 
