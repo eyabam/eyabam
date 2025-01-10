@@ -19,4 +19,7 @@ I'm currently exploring various technologies and honing my skills in software de
 - **Followers**: 0
 - **Following**: 0
 
+## Connect with me
 
+Feel free to reach out for collaborations or just a chat about technology and security. Here's where you can find me:
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/aya-ben-amara/))
