@@ -8,7 +8,8 @@ I'm currently exploring various technologies and honing my skills in software de
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,linux&theme=light)](https://skillicons.dev)
+
 
 ## GitHub Stats
 
